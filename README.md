@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/frjyuaecihjlfpne?svg=true)](https://ci.appveyor.com/project/AnutaSt/ajs-hw-test1)
