@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/frjyuaecihjlfpne/branch/main?svg=true)](https://ci.appveyor.com/project/AnutaSt/ajs-hw-test1/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/oxvc6bfox3ovypvx?svg=true)](https://ci.appveyor.com/project/AnutaSt/ajs-hw-test1-b8o12)
